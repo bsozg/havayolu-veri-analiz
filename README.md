@@ -43,5 +43,5 @@ Veri setinde temel olarak 8 adet işlem yapılmıştır.
 * Veride en çok avaalanının bulunduğu ülke United States olmuştur.
 * Veride aykırı değer gözlenmemiştir.
 
-### Kaggle Çalışmam ve Hesabım
+### Kaggle Çalışmam
 https://www.kaggle.com/code/bsakoz/havayolu-veri-seti-zerine-analiz
