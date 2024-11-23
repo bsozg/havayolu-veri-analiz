@@ -1,4 +1,4 @@
-# Havayolu Veri Seti üzerine analiz
+# Havayolu Veri Seti Üzerine Analiz
 ![havayolu-take-off](https://github.com/user-attachments/assets/7445ee62-ef76-4241-a23e-768a85f0b787) 
 
 Airline Dataset : https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset?select=Airline+Dataset+Updated+-+v2.csv
@@ -43,5 +43,5 @@ Veri setinde temel olarak 8 adet işlem yapılmıştır.
 * Veride en çok avaalanının bulunduğu ülke United States olmuştur.
 * Veride aykırı değer gözlenmemiştir.
 
-### Kaggle Hesabım
-Kaggle: https://www.kaggle.com/bsakoz
+### Kaggle Çalışmam ve Hesabım
+https://www.kaggle.com/code/bsakoz/havayolu-veri-seti-zerine-analiz
