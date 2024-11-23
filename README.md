@@ -31,7 +31,7 @@ Veri setinde temel olarak 8 adet işlem yapılmıştır.
 * _Sürekli Değişken Analizi_
 * _Aykırı Değer Analizi_
 * _Feature Engineering_
-* Sonuç ve Öneriler_
+* _Sonuç ve Öneriler_
 
 ### Bulgular ve İşlemler
 
